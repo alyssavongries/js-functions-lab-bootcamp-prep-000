@@ -1,1 +1,1 @@
-function happyHolidays("Happy holidays!")
+
